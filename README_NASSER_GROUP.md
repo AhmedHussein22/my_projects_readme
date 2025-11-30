@@ -14,10 +14,12 @@ Employee management platform with attendance tracking, QR code check-in/out, and
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Check-in"/>
-  <img src="screenshots/3.png" width="200" alt="Profile"/>
-  <img src="screenshots/4.png" width="200" alt="Attendance"/>
+  <img width="1920" height="960" alt="1" src="https://github.com/user-attachments/assets/0357cc2c-72b0-49d4-b293-a42e86d7f17a" />
+
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/7df8aa5f-1000-409b-abf6-478ba9742d45" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/d8d718a9-b1b1-4d85-9cce-e1d2401c0d70" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/8cfe3427-4e1e-4cbf-9d2a-1f4cf0697d90" />
+
 </p>
 
 ---
