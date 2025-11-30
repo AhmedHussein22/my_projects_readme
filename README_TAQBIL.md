@@ -13,7 +13,9 @@ Modern platform for renting properties with advanced filtering, OpenStreetMap in
 
 ## 📸 Screenshots
 
-<p align="center">
+
+
+![1](https://github.com/user-attachments/assets/829551c1-93c0-4667-8e70-9a83d1a00d9e)
 ![9](https://github.com/user-attachments/assets/cafa082a-7eb3-4219-9468-85d5a48eaec4)
 ![8](https://github.com/user-attachments/assets/1bdc742a-bc3b-4086-9a41-2344600c58fd)
 ![7](https://github.com/user-attachments/assets/1fa7d8b4-dc8e-40c2-bf7b-44cf17c7d761)
@@ -22,10 +24,6 @@ Modern platform for renting properties with advanced filtering, OpenStreetMap in
 ![4](https://github.com/user-attachments/assets/5a22d4ce-216b-41a9-a5af-769969ce2f55)
 ![3](https://github.com/user-attachments/assets/4c108907-dea7-437d-88ae-35a942c318c5)
 ![2](https://github.com/user-attachments/assets/03bb544b-46d7-4a87-8f7d-59b123521b1b)
-![1](https://github.com/user-attachments/assets/fdd879c4-e655-410b-8a88-216b5b22a6f1)
-
-</p>
-
 
 
 ---
