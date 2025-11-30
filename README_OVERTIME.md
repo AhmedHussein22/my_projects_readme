@@ -40,13 +40,6 @@ One-line tagline: A simple, commission-driven marketing platform supporting 7 bu
 
 </p>
 
-
-
-
-
-
-
-
 ## ✅ Features
 
 - ✓ Multi-role marketplace: marketers, buyers, sellers
@@ -108,7 +101,6 @@ Benefits:
 - shared_preferences / flutter_secure_storage — local/persistent storage
 - intl — localization and formatting
 - url_launcher — external links / deep links
-
 
 ---
 
