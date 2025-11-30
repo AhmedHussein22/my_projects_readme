@@ -14,35 +14,26 @@ Educational platform connecting students with qualified teachers, featuring vide
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Teachers"/>
-  <img src="screenshots/3.png" width="200" alt="Profile"/>
-  <img src="screenshots/4.png" width="200" alt="Booking"/>
+  <img width="1920" height="960" alt="1" src="https://github.com/user-attachments/assets/de67f84f-8ff8-44e0-86af-a278e2c6e757" />
+ <img width="1920" height="1266" alt="14" src="https://github.com/user-attachments/assets/6e6e36e5-13c9-4d3b-9bfa-eae15cd48edf" />
+<img width="1920" height="1266" alt="13" src="https://github.com/user-attachments/assets/d9f2fc77-37b8-4140-999d-1536de39e626" />
+<img width="1920" height="1266" alt="12" src="https://github.com/user-attachments/assets/47f6bfcb-f4c6-4dc4-aaa5-7c624cb2afaf" />
+<img width="1920" height="1266" alt="11" src="https://github.com/user-attachments/assets/005644d0-e123-49b9-93f0-4a55b62bb284" />
+<img width="1920" height="1266" alt="10" src="https://github.com/user-attachments/assets/0be5c770-f9ab-448a-8d6f-571a9ee08519" />
+<img width="1920" height="1266" alt="9" src="https://github.com/user-attachments/assets/a1ac292f-d754-42e0-92e0-d18f8b052843" />
+<img width="1920" height="1266" alt="8" src="https://github.com/user-attachments/assets/983d3b88-d7eb-4da2-8c54-469db3b5fdf8" />
+<img width="1920" height="1266" alt="7" src="https://github.com/user-attachments/assets/b4414ab8-c569-4c91-8fc3-8cb954fd41d2" />
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/0a19d63f-7cfd-4c3e-b84c-1eff3d645c42" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/370cdf43-6cf4-4967-8c87-01aa080204a1" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/5d769973-67a3-462a-8bd9-3158ea3f1588" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/14bae7ef-77ce-45b2-8d89-547118111e9d" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/1d57a43a-2395-4db1-a49f-df01da86add7" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Video Call"/>
-  <img src="screenshots/6.png" width="200" alt="Chat"/>
-  <img src="screenshots/7.png" width="200" alt="Payment"/>
-  <img src="screenshots/8.png" width="200" alt="Schedule"/>
-</p>
 
-<details>
-<summary>View More Screenshots</summary>
 
-<p align="center">
-  <img src="screenshots/9.png" width="200" alt="Screenshot 9"/>
-  <img src="screenshots/10.png" width="200" alt="Screenshot 10"/>
-  <img src="screenshots/11.png" width="200" alt="Screenshot 11"/>
-  <img src="screenshots/12.png" width="200" alt="Screenshot 12"/>
-</p>
 
-<p align="center">
-  <img src="screenshots/13.png" width="200" alt="Screenshot 13"/>
-  <img src="screenshots/14.png" width="200" alt="Screenshot 14"/>
-</p>
-
-</details>
 
 ---
 
