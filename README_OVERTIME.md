@@ -15,10 +15,29 @@ One-line tagline: A simple, commission-driven marketing platform supporting 7 bu
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/apps_screenshots/over_time/1.png" width="200" alt="Home Screen"/>
-  <img src="assets/images/apps_screenshots/over_time/2.png" width="200" alt="Categories"/>
-  <img src="assets/images/apps_screenshots/over_time/3.png" width="200" alt="Job Listings"/>
-  <img src="assets/images/apps_screenshots/over_time/4.png" width="200" alt="Details"/>
+<img width="1600" height="2000" alt="22" src="https://github.com/user-attachments/assets/247d4b32-bf41-4895-b479-0add17c1cd6c" />
+<img width="1600" height="2000" alt="21" src="https://github.com/user-attachments/assets/34797bab-2d6d-4a56-960a-33f97dda26db" />
+<img width="2000" height="1600" alt="20" src="https://github.com/user-attachments/assets/74bb8cc0-c1d7-45c3-9f9e-2f4068537eed" />
+<img width="2000" height="1600" alt="19" src="https://github.com/user-attachments/assets/b7dbcb4a-2b98-4d4c-a19f-480e0d14ed61" />
+<img width="2000" height="1600" alt="18" src="https://github.com/user-attachments/assets/a3cac2af-39df-4311-a4ca-3761680d57b2" />
+<img width="2000" height="1600" alt="17" src="https://github.com/user-attachments/assets/82a4ece1-cde0-451f-b780-8556b741d22e" />
+<img width="2000" height="1600" alt="16" src="https://github.com/user-attachments/assets/77338fd9-a1b5-4780-8b24-c46e11b53a7c" />
+<img width="2000" height="1600" alt="15" src="https://github.com/user-attachments/assets/2ca04f93-5f06-440f-8e25-88e22d2ef87c" />
+<img width="2000" height="1600" alt="14" src="https://github.com/user-attachments/assets/0c498a99-6a04-401f-83ed-1dd67d4d6a21" />
+<img width="1600" height="2000" alt="13" src="https://github.com/user-attachments/assets/9388596e-a5c7-47d0-827d-12e888a3d7a2" />
+<img width="1600" height="2000" alt="12" src="https://github.com/user-attachments/assets/47511ceb-f0cf-4717-9233-1ca4c4b61c73" />
+<img width="1600" height="2000" alt="11" src="https://github.com/user-attachments/assets/e1ecc8f9-11b4-449d-994d-1ab400914750" />
+<img width="1600" height="2000" alt="10" src="https://github.com/user-attachments/assets/bbf5c14a-3f3d-4cfd-b3fe-b50960c92a2e" />
+<img width="1600" height="2000" alt="9" src="https://github.com/user-attachments/assets/0797e64e-6cb1-4aa2-9ac5-5141e74e5d9a" />
+<img width="1600" height="2000" alt="8" src="https://github.com/user-attachments/assets/4f8c4ec8-1ffb-4875-9b97-39d1927ccbe2" />
+<img width="1600" height="2000" alt="7" src="https://github.com/user-attachments/assets/8a1c110a-6ae6-450b-8ca2-ee9443db4eb5" />
+<img width="1600" height="2000" alt="6" src="https://github.com/user-attachments/assets/406e80b6-841d-43d5-8de7-27a8b5fa5cb5" />
+<img width="1600" height="2000" alt="5" src="https://github.com/user-attachments/assets/d323ba23-132e-41c0-8226-0ce26dcd17d0" />
+<img width="1600" height="2000" alt="4" src="https://github.com/user-attachments/assets/2fd9dce5-8b30-4de4-b202-a9732f0b5abe" />
+<img width="1600" height="2000" alt="3" src="https://github.com/user-attachments/assets/9b1ee176-b36c-4f3b-9525-9d1587d85ec9" />
+<img width="1600" height="2000" alt="2" src="https://github.com/user-attachments/assets/79ee8c14-9cb0-4b15-b87a-bb96001fef45" />
+<img width="1600" height="2000" alt="1" src="https://github.com/user-attachments/assets/1ec60689-91d8-4491-94d7-c1a0f9aecf22" />
+
 </p>
 
 <p align="center">
