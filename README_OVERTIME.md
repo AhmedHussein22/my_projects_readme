@@ -14,19 +14,56 @@ One-line tagline: A simple, commission-driven marketing platform supporting 7 bu
 
 ## 📸 Screenshots
 
-> Replace these with your high-quality screenshots located in screenshots/
+<p align="center">
+  <img src="assets/images/apps_screenshots/over_time/1.png" width="200" alt="Home Screen"/>
+  <img src="assets/images/apps_screenshots/over_time/2.png" width="200" alt="Categories"/>
+  <img src="assets/images/apps_screenshots/over_time/3.png" width="200" alt="Job Listings"/>
+  <img src="assets/images/apps_screenshots/over_time/4.png" width="200" alt="Details"/>
+</p>
 
-![Screenshot - Home](screenshots/1.png "Home screen")
-![Screenshot - Listings](screenshots/2.png "Listings")
-![Screenshot - Details](screenshots/3.png "Item details")
-![Screenshot - Booking](screenshots/4.png "Booking and Checkout")
+<p align="center">
+  <img src="assets/images/apps_screenshots/over_time/5.png" width="200" alt="Services"/>
+  <img src="assets/images/apps_screenshots/over_time/6.png" width="200" alt="Products"/>
+  <img src="assets/images/apps_screenshots/over_time/7.png" width="200" alt="Real Estate"/>
+  <img src="assets/images/apps_screenshots/over_time/8.png" width="200" alt="Promo Codes"/>
+</p>
+
+<p align="center">
+  <img src="assets/images/apps_screenshots/over_time/9.png" width="200" alt="Missions"/>
+  <img src="assets/images/apps_screenshots/over_time/10.png" width="200" alt="Profile"/>
+  <img src="assets/images/apps_screenshots/over_time/11.png" width="200" alt="Earnings"/>
+  <img src="assets/images/apps_screenshots/over_time/12.png" width="200" alt="Payment"/>
+</p>
+
+<details>
+<summary>View More Screenshots</summary>
+
+<p align="center">
+  <img src="assets/images/apps_screenshots/over_time/13.png" width="200" alt="Screenshot 13"/>
+  <img src="assets/images/apps_screenshots/over_time/14.png" width="200" alt="Screenshot 14"/>
+  <img src="assets/images/apps_screenshots/over_time/15.png" width="200" alt="Screenshot 15"/>
+  <img src="assets/images/apps_screenshots/over_time/16.png" width="200" alt="Screenshot 16"/>
+</p>
+
+<p align="center">
+  <img src="assets/images/apps_screenshots/over_time/17.png" width="200" alt="Screenshot 17"/>
+  <img src="assets/images/apps_screenshots/over_time/18.png" width="200" alt="Screenshot 18"/>
+  <img src="assets/images/apps_screenshots/over_time/19.png" width="200" alt="Screenshot 19"/>
+  <img src="assets/images/apps_screenshots/over_time/20.png" width="200" alt="Screenshot 20"/>
+</p>
+
+<p align="center">
+  <img src="assets/images/apps_screenshots/over_time/21.png" width="200" alt="Screenshot 21"/>
+  <img src="assets/images/apps_screenshots/over_time/22.png" width="200" alt="Screenshot 22"/>
+</p>
+
+</details>
 
 ---
 
 ## 🎞 Demo
 
-Short demo GIF / video (replace placeholder):
-![App Demo](screenshots/demo.gif)
+> Add your demo GIF or video here
 
 ---
 
