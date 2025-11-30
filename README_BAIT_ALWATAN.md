@@ -14,10 +14,11 @@ Real estate platform for Egyptian expatriates featuring land information, projec
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Properties"/>
-  <img src="screenshots/3.png" width="200" alt="News"/>
-  <img src="screenshots/4.png" width="200" alt="Details"/>
+  <img width="1920" height="960" alt="1" src="https://github.com/user-attachments/assets/92aec805-b67e-4b48-a955-e9401d7dc289" />
+ <img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/2cd63eb4-2d20-46e5-9ab4-34cd68c82d85" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/d614b2bb-9bde-40de-a5bb-acea6eeed487" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/ed7b8d0e-55b5-410c-aea0-f594c7fde0cd" />
+
 </p>
 
 ---
