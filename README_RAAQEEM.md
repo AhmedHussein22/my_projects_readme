@@ -14,16 +14,17 @@ The first online book fair and largest in the Arab world with AI recommendations
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Books"/>
-  <img src="screenshots/3.png" width="200" alt="Details"/>
-  <img src="screenshots/4.png" width="200" alt="Cart"/>
+  <img width="1657" height="960" alt="1" src="https://github.com/user-attachments/assets/4896373e-787d-4353-a929-0ab230375e14" />
+
+ <img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/d7faad4f-554f-4994-8197-965cbb6143dd" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/1adc6c42-b52c-411c-b41f-6d578ba156c3" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/da963a84-1fce-435f-b2b7-0a11ea4f27f3" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/2a11f146-6b83-4abf-83b2-985b2eb6c3a4" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/cb2aec4c-1647-4b5b-873a-0e4878c2e900" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Wishlist"/>
-  <img src="screenshots/6.png" width="200" alt="Profile"/>
-</p>
+
 
 ---
 
