@@ -14,30 +14,25 @@ A spiritual mobile application for Quran, daily أذكار (prayers), and Islami
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/0.png" width="200" alt="App Icon"/>
-  <img src="screenshots/1.jpg" width="200" alt="Home"/>
-  <img src="screenshots/2.jpg" width="200" alt="Quran"/>
-  <img src="screenshots/3.jpg" width="200" alt="Azkar"/>
+  <img width="1600" height="1200" alt="0" src="https://github.com/user-attachments/assets/e5131a32-edda-44fb-a785-d2d06ef75c39" />
+<img width="400" height="1200" alt="1" src="https://github.com/user-attachments/assets/35df1744-81e7-4f46-b1da-75b52bb9f0e4" />
+<img width="400" height="1200" alt="2" src="https://github.com/user-attachments/assets/c6a77d31-733c-4d24-b60e-ac7f86453286" />
+<img width="400" height="1200" alt="3" src="https://github.com/user-attachments/assets/e8420edb-42fd-47fe-9739-70ac4c620cc8" />
+<img width="400" height="1200" alt="4" src="https://github.com/user-attachments/assets/b5e223cc-cae6-4e25-8bc4-6ad15491de06" />
+<img width="400" height="1200" alt="5" src="https://github.com/user-attachments/assets/c2545ee1-04cb-4058-af64-502073b0083a" />
+<img width="400" height="1200" alt="6" src="https://github.com/user-attachments/assets/07796635-880a-4d27-bf4d-4c8765bed8cc" />
+<img width="400" height="1200" alt="7" src="https://github.com/user-attachments/assets/69ab51ed-6416-4079-be0e-3ef262f49238" />
+<img width="400" height="1200" alt="8" src="https://github.com/user-attachments/assets/374c9d5b-4803-49b9-ab61-4604c1fae147" />
+<img width="400" height="1200" alt="9" src="https://github.com/user-attachments/assets/63aa7c3a-3e93-4b50-8590-b49deae95f0d" />
+<img width="400" height="1200" alt="10" src="https://github.com/user-attachments/assets/dc7be690-8088-4b6f-a73f-081cf62eeb26" />
+<img width="400" height="1200" alt="11" src="https://github.com/user-attachments/assets/f675527c-645c-457b-81be-31b317e783c5" />
+
+  
+
+
 </p>
 
-<p align="center">
-  <img src="screenshots/4.jpg" width="200" alt="Audio Player"/>
-  <img src="screenshots/5.jpg" width="200" alt="Tasbih"/>
-  <img src="screenshots/6.jpg" width="200" alt="Qibla"/>
-  <img src="screenshots/7.jpg" width="200" alt="Prayer Times"/>
-</p>
 
-<details>
-<summary>View More Screenshots</summary>
-
-<p align="center">
-  <img src="screenshots/8.jpg" width="200" alt="Screenshot 8"/>
-  <img src="screenshots/9.jpg" width="200" alt="Screenshot 9"/>
-  <img src="screenshots/10.jpg" width="200" alt="Screenshot 10"/>
-  <img src="screenshots/11.jpg" width="200" alt="Screenshot 11"/>
-</p>
-
-</details>
 
 ---
 
