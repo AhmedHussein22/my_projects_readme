@@ -14,17 +14,16 @@ Full-featured e-commerce application with user and admin panels for complete sto
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Products"/>
-  <img src="screenshots/3.png" width="200" alt="Cart"/>
-  <img src="screenshots/4.png" width="200" alt="Admin"/>
+  <img width="1920" height="960" alt="1" src="https://github.com/user-attachments/assets/870415d0-b508-485f-bddd-5bf036d618a5" />
+<img width="1920" height="1266" alt="7" src="https://github.com/user-attachments/assets/b6f8c182-8475-4f5d-9480-254cd0e9a3bf" />
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/f27eac7b-faa8-43c7-961c-607ad153cd01" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/702605f2-c851-4577-b92a-234913d04080" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/9f5ef470-9c5b-408d-8da6-1a3de771b7cb" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/27cd8c2a-b4f6-4b93-9eaa-9cc747b97251" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/690b15f9-cca5-4092-968c-39dfb37d007c" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Add Product"/>
-  <img src="screenshots/6.png" width="200" alt="Orders"/>
-  <img src="screenshots/7.png" width="200" alt="Profile"/>
-</p>
 
 ---
 
