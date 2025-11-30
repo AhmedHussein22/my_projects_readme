@@ -14,10 +14,10 @@ Complete fitness and workout tracking application with exercise library and prog
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Workouts"/>
-  <img src="screenshots/3.png" width="200" alt="Exercise"/>
-  <img src="screenshots/4.png" width="200" alt="Progress"/>
+  <img width="1920" height="960" alt="1" src="https://github.com/user-attachments/assets/5887476e-e154-4b98-b575-2f3fb530073e" />
+ <img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/cf36c219-d836-499d-bbfe-960fe5dc2863" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/d598eed0-0632-4268-9ea1-4f66ffd8ade7" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/ccde38a3-05e5-4bd5-ae1b-f8e537516d31" />
 </p>
 
 ---
