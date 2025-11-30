@@ -14,16 +14,18 @@ Smart parking solution connecting users with available parking spaces, featuring
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Map Search"/>
-  <img src="screenshots/3.png" width="200" alt="Parking Details"/>
-  <img src="screenshots/4.png" width="200" alt="Booking"/>
+  <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/32256778-986c-4980-9bd3-107279b8bb07" />
+
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/065a4649-40b6-4f47-bdf5-76209da68b79" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/17b090bf-f25e-4eff-8e72-bffbf512e34a" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/a03337aa-56cd-42e0-b859-fac7031cfc3e" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/b19159bf-e615-4db5-ac22-12bf1e7ec665" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/09ac78fb-b214-4df7-a62f-256dcbdc946e" />
+
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Payment"/>
-  <img src="screenshots/6.png" width="200" alt="Wallet"/>
-</p>
+
 
 ---
 
