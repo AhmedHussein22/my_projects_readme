@@ -14,17 +14,21 @@ A social media platform for influencers to showcase content, similar to YouTube 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.jpg" width="200" alt="Home Screen"/>
-  <img src="screenshots/2.jpg" width="200" alt="Video Feed"/>
-  <img src="screenshots/3.jpg" width="200" alt="Channel"/>
-  <img src="screenshots/4.jpg" width="200" alt="Video Player"/>
+  <img width="1920" height="960" alt="1" src="https://github.com/user-attachments/assets/c3357ecd-39d0-437d-bfe0-9bbeb865a6de" />
+  <img width="1920" height="960" alt="2" src="https://github.com/user-attachments/assets/c9a1a4a4-da5a-4d25-bd2d-64e90a902935" />
+  <img width="1920" height="960" alt="3" src="https://github.com/user-attachments/assets/a347fc60-897c-4487-9f1f-bb057d680212" />
+  <img width="1920" height="960" alt="4" src="https://github.com/user-attachments/assets/428306a0-d2d4-4997-9618-711197c49bcb" />
+  <img width="1920" height="960" alt="5" src="https://github.com/user-attachments/assets/affb7bf7-c82e-493c-8790-2e62c85fd044" />
+  <img width="1920" height="960" alt="6" src="https://github.com/user-attachments/assets/c9a1a4a4-da5a-4d25-bd2d-64e90a902935" />
+  <img width="1920" height="960" alt="7" src="https://github.com/user-attachments/assets/3b1f0636-cbd6-48f6-8121-ec322a45004e" />
+
+
+
+
+  
 </p>
 
-<p align="center">
-  <img src="screenshots/5.jpg" width="200" alt="Comments"/>
-  <img src="screenshots/6.jpg" width="200" alt="Profile"/>
-  <img src="screenshots/7.jpg" width="200" alt="Settings"/>
-</p>
+
 
 ---
 
