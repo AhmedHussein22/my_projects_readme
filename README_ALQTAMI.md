@@ -14,16 +14,17 @@ Holy Quran recitations by Nasser Al Qatami with audios, videos, and photos for d
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home Screen"/>
-  <img src="screenshots/2.png" width="200" alt="Quran Audio"/>
-  <img src="screenshots/3.png" width="200" alt="Videos"/>
-  <img src="screenshots/4.png" width="200" alt="Photos"/>
+  <img width="1920" height="960" alt="1" src="https://github.com/user-attachments/assets/a93e6dd2-d82a-4d52-b6fa-5a1ad97337d0" />
+
+  <img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/e447f162-17d7-42f4-9b87-ef6cac33267b" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/c5b40a0d-2b4d-488b-867f-92ca3e9f6dc8" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/ec66cbcc-61e8-480c-80f7-8bba587c20e5" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/4126147f-7c3a-4dcb-81a4-83765a2200cc" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/27c9cd3c-92a6-4673-b46b-69e103f40b50" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Download"/>
-  <img src="screenshots/6.png" width="200" alt="Player"/>
-</p>
+
 
 ---
 
