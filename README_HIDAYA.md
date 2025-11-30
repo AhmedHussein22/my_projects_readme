@@ -14,28 +14,23 @@ A leading platform for Holy Quran lovers with offline listening and Hidayat shar
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.jpeg" width="200" alt="Home Screen"/>
-  <img src="screenshots/2.png" width="200" alt="Quran Listening"/>
-  <img src="screenshots/3.png" width="200" alt="Hidayat Browse"/>
-  <img src="screenshots/4.png" width="200" alt="Offline Mode"/>
+<img width="1280" height="726" alt="1" src="https://github.com/user-attachments/assets/5cf1601f-3f63-4b59-863f-10c47b5088b8" />
+
+ <img width="1920" height="1266" alt="10" src="https://github.com/user-attachments/assets/5aa1d6a5-ef78-465c-9eda-34af7b8e464e" />
+<img width="1920" height="1266" alt="9" src="https://github.com/user-attachments/assets/832f4a09-baae-42b5-b7df-47c22bf48cd9" />
+<img width="1920" height="1266" alt="8" src="https://github.com/user-attachments/assets/256d51da-3a50-4871-8a84-3ff7444a827a" />
+<img width="1920" height="1266" alt="7" src="https://github.com/user-attachments/assets/5d3b21df-e841-4e99-922d-dfb3b6c97382" />
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/2afde16b-6528-4553-93d1-ae026c7a07f2" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/1eb1fcb6-e150-4e5b-a8fb-99c63141b4b1" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/1a8b37f4-2582-4082-b6d8-0f3bf0798738" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/bb0ae64e-445f-438a-88e1-6703961ad7df" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/dbdeca1a-8fa2-457a-b1c5-9933e81c896a" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Download"/>
-  <img src="screenshots/6.png" width="200" alt="Share Hidayat"/>
-  <img src="screenshots/7.png" width="200" alt="Settings"/>
-  <img src="screenshots/8.png" width="200" alt="Dark Theme"/>
-</p>
 
-<details>
-<summary>View More Screenshots</summary>
 
-<p align="center">
-  <img src="screenshots/9.png" width="200" alt="Screenshot 9"/>
-  <img src="screenshots/10.png" width="200" alt="Screenshot 10"/>
-</p>
 
-</details>
 
 ---
 
