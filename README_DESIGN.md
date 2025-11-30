@@ -14,28 +14,23 @@ Professional platform for engineering consultations and construction licenses wi
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Services"/>
-  <img src="screenshots/3.png" width="200" alt="Engineers"/>
-  <img src="screenshots/4.png" width="200" alt="Booking"/>
+<img width="1600" height="1200" alt="1" src="https://github.com/user-attachments/assets/cc581a78-8531-4a75-a192-d2240828fbeb" />
+
+ <img width="1920" height="1266" alt="10" src="https://github.com/user-attachments/assets/64b305f9-6edf-4198-b26c-06a096c425f5" />
+<img width="1920" height="1266" alt="9" src="https://github.com/user-attachments/assets/77d41a97-830b-4ff7-a8c6-6c5247f409b2" />
+<img width="1920" height="1266" alt="8" src="https://github.com/user-attachments/assets/d6d4c54a-9b32-47db-ade7-1c9f6d3b3e8f" />
+<img width="1920" height="1266" alt="7" src="https://github.com/user-attachments/assets/19506319-09dd-4e92-b6ab-38e76a5afa87" />
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/91e73452-3d23-41e6-9459-d5cd79aa5b2d" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/ba51b948-ac17-47f6-87fc-7f88341c8312" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/8c8761b5-31a6-42f0-ab26-12d8107fa465" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/b7967682-21b6-460f-bb45-252204d10346" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/c368e0af-27bb-473c-b2a3-19a9e7e3daea" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Chat"/>
-  <img src="screenshots/6.png" width="200" alt="Payment"/>
-  <img src="screenshots/7.png" width="200" alt="Profile"/>
-  <img src="screenshots/8.png" width="200" alt="Orders"/>
-</p>
 
-<details>
-<summary>View More Screenshots</summary>
 
-<p align="center">
-  <img src="screenshots/9.png" width="200" alt="Screenshot 9"/>
-  <img src="screenshots/10.png" width="200" alt="Screenshot 10"/>
-</p>
 
-</details>
 
 ---
 
