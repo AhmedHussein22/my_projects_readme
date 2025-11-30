@@ -14,17 +14,17 @@ Online store for event organization services (weddings, engagements, birthdays, 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Categories"/>
-  <img src="screenshots/3.png" width="200" alt="Products"/>
-  <img src="screenshots/4.png" width="200" alt="Details"/>
+  <img width="1657" height="960" alt="1" src="https://github.com/user-attachments/assets/61a63fe4-b70b-4e4d-bf40-092e37b44b3e" />
+
+ <img width="1920" height="1266" alt="7" src="https://github.com/user-attachments/assets/2b04c853-c0ec-4b06-92d4-32c64453a1ea" />
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/3ce5d2b3-82d9-4d4d-886d-e6df179e89fe" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/9d007fb5-a41c-4aa2-b790-f40df5c5a033" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/9511c033-5ed2-4370-8241-c3929c1d1f53" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/bf9ce96c-0b18-480a-8452-fd1643f48cac" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/da4cdd39-ea58-49a5-928d-e87df8aae86d" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Cart"/>
-  <img src="screenshots/6.png" width="200" alt="Checkout"/>
-  <img src="screenshots/7.png" width="200" alt="Orders"/>
-</p>
 
 ---
 
