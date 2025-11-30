@@ -14,17 +14,17 @@ Holy Quran recitations by Libyan reciter Mahmoud Al-Malkey with audio, video, an
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Audio"/>
-  <img src="screenshots/3.png" width="200" alt="Videos"/>
-  <img src="screenshots/4.png" width="200" alt="Photos"/>
+<img width="1920" height="1266" alt="7" src="https://github.com/user-attachments/assets/742e9696-7338-4966-9d93-5cb1a797b7cc" />
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/a2be84b9-d6e8-40f6-88f1-b363cad4de67" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/75812fab-c8b9-4562-81c5-917d723f5df8" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/22861c04-a40c-4abb-a9c4-e18f69f73278" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/66fc8637-0b15-407b-81e1-0b29e99f1094" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/db018b9a-fc57-4e88-b699-81dbf7f1d0aa" />
+<img width="5000" height="2812" alt="1" src="https://github.com/user-attachments/assets/a6c9a640-432d-49e3-96cf-d1ec7a09bfec" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Player"/>
-  <img src="screenshots/6.png" width="200" alt="Downloads"/>
-  <img src="screenshots/7.png" width="200" alt="News"/>
-</p>
+
 
 ---
 
