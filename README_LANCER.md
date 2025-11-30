@@ -14,28 +14,20 @@ One-stop freelancing platform connecting freelancers with companies, featuring r
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Home"/>
-  <img src="screenshots/2.png" width="200" alt="Browse"/>
-  <img src="screenshots/3.png" width="200" alt="Profile"/>
-  <img src="screenshots/4.png" width="200" alt="Projects"/>
+  <img width="1902" height="1080" alt="1" src="https://github.com/user-attachments/assets/c1176c22-62ee-4411-874b-89c583c72021" />
+
+ <img width="1920" height="1266" alt="10" src="https://github.com/user-attachments/assets/65a03022-2268-40e8-9e33-65a4e2ab346d" />
+<img width="1920" height="1266" alt="9" src="https://github.com/user-attachments/assets/da82555c-8f42-4aaf-968c-a3fe68d2c04f" />
+<img width="1920" height="1266" alt="8" src="https://github.com/user-attachments/assets/33d86d5e-ee1c-4b96-bcfd-4176d76af9b2" />
+<img width="1920" height="1266" alt="7" src="https://github.com/user-attachments/assets/8455fc44-5ee1-4b36-a65e-f78da3f5eb19" />
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/f575d7b2-6043-4d7c-9698-43015d2bcb1b" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/f259c3eb-6353-4b2f-9beb-bf939710dba8" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/0d447999-276a-4c99-8426-e54a54b8ae23" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/3fb5558c-5aad-400c-9399-539059edb9e1" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/05c63768-b05e-4438-9c04-3fedbf45e094" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Chat"/>
-  <img src="screenshots/6.png" width="200" alt="Video Call"/>
-  <img src="screenshots/7.png" width="200" alt="Payment"/>
-  <img src="screenshots/8.png" width="200" alt="Company"/>
-</p>
-
-<details>
-<summary>View More Screenshots</summary>
-
-<p align="center">
-  <img src="screenshots/9.png" width="200" alt="Screenshot 9"/>
-  <img src="screenshots/10.png" width="200" alt="Screenshot 10"/>
-</p>
-
-</details>
 
 ---
 
