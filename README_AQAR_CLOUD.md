@@ -13,18 +13,23 @@ Comprehensive real estate management system with CRM, property listings, and cli
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" alt="Dashboard"/>
-  <img src="screenshots/2.png" width="200" alt="Properties"/>
-  <img src="screenshots/3.png" width="200" alt="Clients"/>
-  <img src="screenshots/4.png" width="200" alt="Leads"/>
+  <img width="1920" height="960" alt="1" src="https://github.com/user-attachments/assets/52566689-48aa-4b35-8ef9-7cbe3964bbe9" />
+  <img width="1920" height="1266" alt="13" src="https://github.com/user-attachments/assets/abcab7ca-4c8e-4f8a-928a-0d700e82ef46" />
+<img width="1920" height="1266" alt="12" src="https://github.com/user-attachments/assets/c6bd8ead-9ae0-433b-a9a8-2eda7221bfda" />
+<img width="1920" height="1266" alt="11" src="https://github.com/user-attachments/assets/6ab3b656-6301-4a78-8a23-61a851fdc83a" />
+<img width="1920" height="1266" alt="10" src="https://github.com/user-attachments/assets/e62d5b78-d20c-4621-bcbe-648f209c1a1a" />
+<img width="1920" height="1266" alt="9" src="https://github.com/user-attachments/assets/387962b3-687a-43c0-aee8-d8aef5762c95" />
+<img width="1920" height="1266" alt="8" src="https://github.com/user-attachments/assets/a30dec29-0850-487b-ab22-725b7363432e" />
+<img width="1920" height="1266" alt="7" src="https://github.com/user-attachments/assets/d1fec336-e5f0-4d6e-8468-70f5f1f3abc3" />
+<img width="1920" height="1266" alt="6" src="https://github.com/user-attachments/assets/ffa3ae54-6002-45e7-a7d3-b86ba7006711" />
+<img width="1920" height="1266" alt="5" src="https://github.com/user-attachments/assets/e8da1a96-bc99-46ff-89be-14eec7299fb5" />
+<img width="1920" height="1266" alt="4" src="https://github.com/user-attachments/assets/05df8109-e4ce-4d10-87e3-b954f4da3d54" />
+<img width="1920" height="1266" alt="3" src="https://github.com/user-attachments/assets/f51d3863-4499-4ace-8871-7ea7ceb0a74a" />
+<img width="1920" height="1266" alt="2" src="https://github.com/user-attachments/assets/1bb2982c-c7d3-41f9-b51d-d74821523596" />
+
 </p>
 
-<p align="center">
-  <img src="screenshots/5.png" width="200" alt="Tasks"/>
-  <img src="screenshots/6.png" width="200" alt="Calendar"/>
-  <img src="screenshots/7.png" width="200" alt="Reports"/>
-  <img src="screenshots/8.png" width="200" alt="Map"/>
-</p>
+
 
 <details>
 <summary>View More Screenshots</summary>
